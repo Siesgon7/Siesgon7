@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, Soy Sivert!</h2>
+<h2 title="hehehe"> Hi 👋, Soy Sivert!</h2>
 
 <a href="https://www.linkedin.com/in/sivert-escaff-gonzalez-27918b257/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
