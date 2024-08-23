@@ -25,9 +25,6 @@
 - 🌱 Me gusta la ciencia en general, matematicas , fisica y ciencias de la computacion.
 - <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> Wrote a conference paper as a team to present in NCCT-ICT,
 
-  titled [**Blockchain as a service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting)
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@proton.me](mailto:phoenix2810@proton.me).
 
 
 
