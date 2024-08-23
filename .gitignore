@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+videos/
+*.txt
+!texts/171.txt
+
+
 # Distribution / packaging
 .Python
 build/
