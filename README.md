@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
+<h2 title="hehehe"> Hey 👋, Soy Sivert!</h2>
 
 <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
@@ -21,10 +21,10 @@
 
   <img align="right" height = "200" width = "200" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-**About Me!**
+**Sobre me!**
 
-- 👨🏽‍💻 I’m currently an Associate Software Engineer at Betsol.
-- 🌱 I’m currently working on automation of anything and everything using python and other neat stuff.
+- 👨🏽‍💻 Actualmente estudiante de ingenieria civil electrica y MDS en la universidad de chile.
+- 🌱 Me gusta la ciencia en general, matematicas , fisica y ciencias de la computacion.
 - <img height="20" src="https://img.icons8.com/fluent/96/000000/ethereum.png"/> Wrote a conference paper as a team to present in NCCT-ICT,
 
   titled [**Blockchain as a service for E-Voting**](https://www.researchgate.net/publication/364340764_Blockchain_as_a_Service_for_E-Voting)
