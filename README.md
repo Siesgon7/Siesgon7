@@ -1,14 +1,12 @@
 <h2 title="hehehe"> Hey 👋, Soy Sivert!</h2>
 
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+<a href="https://www.linkedin.com/in/sivert-escaff-gonzalez-27918b257/">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/j.sanskarr/">
+<a href="https://www.instagram.com/siesgon/">
   <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png" />
 </a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
-</a>
+
 
 
 
